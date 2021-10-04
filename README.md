@@ -6,4 +6,5 @@ A simple web application to plan out a work-day.
   
 Deployed page: https://andydchoo.github.io/HW-05-Day-Planner/
   
-![IMG_0015](https://user-images.githubusercontent.com/84701751/135782998-0c48813a-abab-43f4-b20a-4fb85a0df626.jpg)
+
+![Screen Shot 2021-10-03 at 9 58 37 PM](https://user-images.githubusercontent.com/84701751/135783047-1b56bf14-2343-401a-878c-873ef6ba5099.png)
